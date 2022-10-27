@@ -1,0 +1,3 @@
+POS Tag generator ws created using n-gram manually. 
+
+the corpus that used is an indonesian corpus from: https://bahasa.cs.ui.ac.id/postag/downloads/Tagset.pdf

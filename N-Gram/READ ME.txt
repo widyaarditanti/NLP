@@ -1,0 +1,1 @@
+corpus to calculate probability and predict the next word using n-gram obtained from: https://www.kaggle.com/datasets/phiitm/marvel-cinematic-universe-dialogue-dataset?select=Avengers.txt
